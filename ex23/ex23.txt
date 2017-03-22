@@ -1,0 +1,10 @@
+Exercise 2: Read Some Code
+
+This is a review / exploration exercise - no code to input.
+
+Suggested sites for examining source code:
+ - bitbucket.org
+ - github.com
+ - launchpad.net
+ - gitorious.org
+ - sourceforge.net
