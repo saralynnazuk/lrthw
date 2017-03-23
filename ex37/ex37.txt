@@ -1,0 +1,3 @@
+Exercise 37: Symbol Review
+
+I made myself a study sheet from the Ruby symbols and keywords provided.
